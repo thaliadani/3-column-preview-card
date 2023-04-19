@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL]()
+- [Live Site URL](https://3-column-preview-card-weld.vercel.app/)
 - [Solution URL](https://www.frontendmentor.io/profile/thaliadani/solutions)
 
 ## My process
