@@ -27,11 +27,11 @@ Users should be able to:
 
 ### Mobile
 
-![image](https://user-images.githubusercontent.com/31187727/230217184-066dcd72-080e-4a5c-916d-e4a29fb5a193.png)
+![image](https://user-images.githubusercontent.com/31187727/233119996-0e7afb92-f1d3-41f5-9454-ea6f1ec93d77.png)
 
 ### Desktop
 
-![image](https://user-images.githubusercontent.com/31187727/230217257-2c7f65ac-9e62-4c6d-a72c-bfd43f0d7a85.png)
+![image](https://user-images.githubusercontent.com/31187727/233119722-bfe05e3b-f00b-4957-a4ed-41eae1cad700.png)
 
 </div>
 
