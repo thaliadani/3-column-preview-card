@@ -1,0 +1,23 @@
+@media (min-width:1440px) {
+    main {
+        flex-direction: row;
+
+        section {
+            width: 21%;
+
+            &:nth-child(1) {
+                border-top-right-radius: 0;
+                border-bottom-left-radius: 0.5rem;
+            }
+
+            &:nth-child(3) {
+                border-top-right-radius: 0.5rem;
+                border-bottom-left-radius: 0;
+            }
+
+            button{
+                margin-top: 4rem;
+            }
+        }
+    }
+}

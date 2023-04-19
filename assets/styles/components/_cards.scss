@@ -1,0 +1,81 @@
+@import '../abstract/variables';
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 4rem 4rem 0;
+    width: 90%;
+    &:nth-child(1) {
+        background-color: $color-orange;
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+
+        button {
+            color: $color-orange;
+            &:hover{
+                background-color: $color-orange;
+                border: solid $color-white;
+                color: $color-white;
+            }
+        }
+    }
+
+    &:nth-child(2) {
+        background-color: $color-cyan;
+
+        button {
+            color: $color-cyan;
+            &:hover{
+                background-color: $color-cyan;
+                border: solid $color-white;
+                color: $color-white;
+            }
+        }
+    }
+
+    &:nth-child(3) {
+        background-color: $color-green;
+        border-bottom-left-radius: 0.5rem;
+        border-bottom-right-radius: 0.5rem;
+
+        button {
+            color: $color-green;
+            &:hover{
+                background-color: $color-green;
+                border: solid $color-white;
+                color: $color-white;
+            }
+        }
+    }
+
+    img {
+        width: 72px;
+    }
+
+    h2 {
+        font-family: $font-Big;
+        font-size: 40px;
+        color: $color-white;
+        padding: 2rem 0;
+        text-transform: uppercase;
+    }
+
+    p {
+        padding-bottom: 1rem;
+        line-height: 1.5rem;
+    }
+
+    button {
+        background-color: $color-white;
+        font-family: $font-Lexend;
+        font-size: 15px;
+        border-radius: 2rem;
+        border: solid 0.2rem $color-white;
+        width: 145px;
+        cursor: pointer;
+        margin: 1rem 0 3rem;
+        padding: 1rem;
+        transition: 0.3s ease-in-out;
+    }
+}
