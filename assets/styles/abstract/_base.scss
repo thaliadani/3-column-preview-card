@@ -15,5 +15,8 @@ body, main{
     align-items: center;
     font-family: $font-Lexend;
     color: $color-gray; 
-    height: 100vh;  
+}
+
+main{
+    padding: 7rem 0;
 }

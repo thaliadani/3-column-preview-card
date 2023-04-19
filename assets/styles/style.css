@@ -12,7 +12,10 @@ body, main {
   align-items: center;
   font-family: "Lexend Deca", sans-serif;
   color: hsla(0, 0%, 100%, 0.75);
-  height: 100vh;
+}
+
+main {
+  padding: 7rem 0;
 }
 
 section {
@@ -99,6 +102,7 @@ section button {
 @media (min-width: 1440px) {
   main {
     flex-direction: row;
+    height: 100vh;
   }
   main section {
     width: 21%;
